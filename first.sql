@@ -1,1 +1,1 @@
-select * from git_purpose
+select * from git_purpose;
